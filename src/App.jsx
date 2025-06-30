@@ -43,3 +43,5 @@ function ProtectedRoute({ children }) {
 }
 
 export default App
+
+// This is the main application component that sets up the routing and context providers.

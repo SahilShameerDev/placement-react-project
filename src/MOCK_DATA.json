@@ -18,3 +18,5 @@
 {"id":18,"first_name":"Nicholas","last_name":"Smythe","email":"nsmytheh@fc2.com","gender":"Male","password":"mX7|v/=qlIZ","role":"admin"},
 {"id":19,"first_name":"Tiffy","last_name":"de Vaen","email":"tdevaeni@blogs.com","gender":"Polygender","password":"rW5,59(eCKUtx,7k","role":"admin"},
 {"id":20,"first_name":"George","last_name":"Elsegood","email":"gelsegoodj@ehow.com","gender":"Female","password":"pP5!xEXY","role":"admin"}]
+
+// This file contains mock data for testing purposes.

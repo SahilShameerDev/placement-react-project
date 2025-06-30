@@ -75,3 +75,5 @@ export const AuthProvider = ({ children }) => {
     </AuthContext.Provider>
   )
 }
+
+// This context provides authentication functionality, including login and logout methods.

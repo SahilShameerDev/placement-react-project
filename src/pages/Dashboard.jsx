@@ -39,3 +39,5 @@ const Dashboard = () => {
 }
 
 export default Dashboard
+
+// This is the main dashboard component that renders different components based on the user's role.

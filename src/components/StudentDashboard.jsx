@@ -148,3 +148,5 @@ const StudentDashboard = () => {
 }
 
 export default StudentDashboard
+
+// This component represents the student dashboard, displaying tasks and statistics based on the user's role.

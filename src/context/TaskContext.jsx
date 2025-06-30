@@ -88,3 +88,5 @@ export const TaskProvider = ({ children }) => {
     </TaskContext.Provider>
   )
 }
+
+// This context provides task management functionality, including adding, updating, deleting, and retrieving tasks.

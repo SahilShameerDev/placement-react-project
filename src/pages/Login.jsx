@@ -117,3 +117,5 @@ function Login() {
 }
 
 export default Login
+
+// This is the login page component that allows users to sign in to the application.
