@@ -45,3 +45,4 @@ function ProtectedRoute({ children }) {
 export default App
 
 // This is the main application component that sets up the routing and context providers.
+// It includes a protected route for the dashboard that checks if the user is authenticated.
